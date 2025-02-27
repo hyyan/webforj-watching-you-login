@@ -5,3 +5,10 @@ A playful login dialog with eyes in the header that follow the user's input, add
 [Login Dialog Documentation](https://docs.webforj.com/docs/components/login)
 
 https://github.com/user-attachments/assets/90e4fd57-8c8f-4d5e-817b-ff592d501a0e
+
+
+# To Run The game
+
+```
+mvn jetty:run
+```
